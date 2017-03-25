@@ -1,0 +1,2 @@
+# mvp
+Minimum viable Democratizr
